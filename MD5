@@ -1,0 +1,12 @@
+1a65dea112bd2ab72534af72c4a537f2 *DESCRIPTION
+d0de3a8feeceb443cd64db840115d80e *NAMESPACE
+7bd7b9c5877f291c3dbcdc7cdd15bb88 *R/palette-package.R
+21c27860e521f0f944850b2801e809d9 *man/complement.Rd
+827ae344aea522708843057642919007 *man/complementColors.Rd
+7e8e0801189856514c57fc4b3b867feb *man/generateMonochromaticColors.Rd
+6826e588eff9e8455618a7dbcb9fae5e *man/hsv2rgb.Rd
+9ef557fe5931b870aa52b47f1ec2fd14 *man/pentadic.Rd
+4c4da5d9747fe7fda4dc73c10a46b368 *man/tetradic.Rd
+280d93384c71e7ffc2245ed6c7530985 *man/tetradicColors.Rd
+542f013bdcdea3756c72ab491406fe56 *man/triadic.Rd
+50c089f28914e13cea220b2ba9467ab1 *man/triadicColors.Rd
